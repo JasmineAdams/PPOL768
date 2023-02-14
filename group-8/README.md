@@ -4,9 +4,6 @@
 *Jasmine Adams, Chance Hope, J Lei* <br />
 *February 2023*
 <br />
-<br />
-
-# Project Pitch
 
 <hr> 
 This research project would evaluate the impact of GUASFCU’s automated credit-builder loan payment program on participants’ credit scores and financial capabilities.
