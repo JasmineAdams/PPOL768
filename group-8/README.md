@@ -80,8 +80,6 @@ The intervention’s novel credit-building strategy represents a low-risk altern
  7. Draft project report 
  8. Present findings 
 
-#### Project duration: 3 months (May 2023)
-
 <br>
 
 ## **References**
