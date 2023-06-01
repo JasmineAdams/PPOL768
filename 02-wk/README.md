@@ -8,9 +8,6 @@ I am interested in conducting interdisciplinary social science research after gr
 <br />
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/zgitprofilepic-small.png" alt="pic" width="150" height="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/waldorfoutlets.png" alt="waldorfoutlets" height="150">
-<br />
-
 #### Some fun facts:
 
 - I have a cat 😸 named Basil who has one eye
