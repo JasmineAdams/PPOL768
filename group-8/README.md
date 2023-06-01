@@ -1,4 +1,5 @@
 # Project Pitch 
+## Draft
 ### PPOL 768 &nbsp;| &nbsp;Group 8
 
 *Jasmine Adams, Chance Hope, J Lei* <br />
@@ -45,14 +46,14 @@ The intervention’s novel credit-building strategy represents a low-risk altern
 
 ## Methodology
 
-   1. Design: A quasi-experimental regression discontinuity design around the program's implementation threshold 
+   1. Design: A randomized intent-to-treat design 
    2. Subjects: Random sample of GU undergrads and/or grads in the union just after the program was created
    3. Comparison groups: Random sample of GU undergrads and/or grads in the union just after the program was created
 
 #### Data measurement
 
 - Quantifiable outcomes (credit score, credit limit, etc.)
--  Benchmarked basket of loans and their corresponding average rates
+- Benchmarked basket of loans and their corresponding average rates
 
 #### Data collection 
 
